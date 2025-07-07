@@ -1,0 +1,15 @@
+WILO.txt – Last updated: 2025-07-07 @ 4:06 PM
+
+✅ Just finished:
+- Updating resume on portfolio and rewording some content
+
+🔧 In progress:
+- Grouping skills into Frontend, Backend, Tools/Testing, Workflow & Design categories
+- Updating/adding skills and finding appropriate icons
+
+⏭️ Next steps:
+- Find a way to visually separate skills into groups (e.g. using <h> tags or section headers)
+
+🧠 Notes:
+- Consider subtle dividers or spacing if icons make h-tags feel clunky
+- May want to standardize icon sizes (24x24 or 32x32)
